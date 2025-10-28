@@ -2,12 +2,12 @@
 
 <h2 align="left">
  <abc>
- <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"></h1><strong>🔥 I'm Yogesh Sitaram Dhuri, Full Stack Web Developer</strong>
+ <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"></h1><h3><strong>🔥 I'm Yogesh Sitaram Dhuri, Full Stack Web Developer</strong></h3>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100%" align="center">
  </abc>
 </h2>
-<h2 align="left">🛠️ Technologies and Tools I use:</h2>
+<h2 align="left">🛠️ Technologies and Tools I use :</h2>
 <p align="left">
 <img src="./icons/html-5.png" alt="html5" width="40" height="40" />
 <img src="./icons/css3.png" alt="css3" width="40" height="40"/>
@@ -24,7 +24,7 @@
 <img src="./icons/nextjs.png" alt="next.js" width="40" height="40"/>
 </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👨🏻‍💻 About Me :</h2>
 
 - :computer: I'm a Aspiring Fullstack Developer.
 - :hourglass_flowing_sand: Exploring Google Cloud & Amazon Web Services
@@ -33,6 +33,6 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
-<h2 align="left">🧡 Let's get connected:</h2>
+<h2 align="left">🧡 Let's get connected :</h2>
 
 <a href="https://github.com/yogesh-dhuri" target="_blank"><img src='./icons/github-badge.svg' alt='github-link'/></a> <a href="https://linkedin.com/in/dhuriyogesh0312" target="_blank"><img src="./icons/linkedIn-badge.svg" alt="linkedin-link" /></a> <a href="https://ysdhuri312.github.io/dhuriyogesh.github.io/" target="_blank"><img src="./icons/yogesh.dev-badge.svg" alt="personal-website-link"/></a>
