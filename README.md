@@ -2,7 +2,7 @@
 
 <h2 align="left">
  <abc>
- <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"></h1><h3><strong>🔥 I'm Yogesh Sitaram Dhuri, Full Stack Web Developer</strong></h3>
+ <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="35"></h1><h3><strong>🔥 I'm Yogesh Sitaram Dhuri, Full Stack Web Developer</strong></h3>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100%" align="center">
  </abc>
@@ -31,7 +31,7 @@
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Eager to contribute as a Fresher in software Development.
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking <br>
 
 <h2 align="left">🧡 Let's get connected :</h2>
 
