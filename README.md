@@ -2,7 +2,7 @@
 
 <h2 align="left">
  <abc>
- <h3>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"></h3>🔥 I'm Yogesh Sitaram Dhuri, Full Stack Web Developer
+ <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"></h1><strong>🔥 I'm Yogesh Sitaram Dhuri, Full Stack Web Developer</strong>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100%" align="center">
  </abc>
