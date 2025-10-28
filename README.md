@@ -24,6 +24,7 @@
 <img src="./icons/nextjs.png" alt="next.js" width="40" height="40"/>
 </p>
 
+<br/>
 <h2 align="left">👨🏻‍💻 About Me :</h2>
 
 - :computer: I'm a Aspiring Fullstack Developer.
