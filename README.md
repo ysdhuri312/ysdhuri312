@@ -27,12 +27,12 @@
 <br/>
 <h2 align="left">👨🏻‍💻 About Me :</h2>
 
-- :computer: I'm a Aspiring Fullstack Developer.
-- :hourglass_flowing_sand: Exploring Google Cloud & Amazon Web Services
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Eager to contribute as a Fresher in software Development.
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking <br>
+- **:computer: I'm a Aspiring Fullstack Developer.**
+- **:hourglass_flowing_sand: Exploring Google Cloud & Amazon Web Services**
+- **:rocket: Always ready to collaborate for Dev Experiments**
+- **:man_technologist: Eager to contribute as a Fresher in software Development.**
+- **:dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"**
+- **:zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking** <br>
 
 <h2 align="left">🧡 Let's get connected :</h2>
 
