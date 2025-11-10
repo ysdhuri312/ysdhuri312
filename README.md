@@ -2,7 +2,7 @@
 
 <div align="left">
  <img src="./icons/hello.gif" width='300'><h2><strong>I'm Yogesh Sitaram Dhuri, Full Stack Web Developer</strong></h2>
- <p><strong>having specialization in backend & Front web development. I have backend skills in Node.js, Expess.js. I also have frontend skills in JavaScript, react.js, Web components like css, Bootstraps.</strong></p>
+ <p><strong>I am specialized in backend & Front web development. I have backend skills in Node.js, Expess.js. I also have frontend skills in JavaScript, react.js, Web components like css, Bootstraps.</strong></p>
  </div>
  
 <br/>
