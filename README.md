@@ -1,7 +1,7 @@
 <!-- @format -->
 
 <div align="left">
- <img src="./icons/hello.gif" width='300'><h1><strong>🔥 I'm Yogesh Sitaram Dhuri, Full Stack Web Developer</strong></h1>
+ <img src="./icons/hello.gif" width='300'><h2><strong>I'm Yogesh Sitaram Dhuri, Full Stack Web Developer</strong></h2>
  </div>
  
 <br/>
