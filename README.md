@@ -3,7 +3,8 @@
 <div align="left">
  <img src="./icons/hello.gif" width='300'><h1><strong>🔥 I'm Yogesh Sitaram Dhuri, Full Stack Web Developer</strong></h1>
  </div>
-
+ 
+<br/>
 <h2 align="left">👨🏻‍💻 About Me :</h2>
 
 - **:computer: I'm a Aspiring Fullstack Developer.**
