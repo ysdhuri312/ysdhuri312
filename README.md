@@ -36,4 +36,4 @@
 
 <h2 align="left">🧡 Let's get connected :</h2>
 
-<a href="https://github.com/yogesh-dhuri" target="_blank"><img src='./icons/github-badge.svg' alt='github-link'/></a> <a href="https://linkedin.com/in/dhuriyogesh0312" target="_blank"><img src="./icons/linkedIn-badge.svg" alt="linkedin-link" /></a> <a href="https://ysdhuri312.github.io/dhuriyogesh.github.io/" target="_blank"><img src="./icons/yogesh.dev-badge.svg" alt="personal-website-link"/></a>
+<a href="https://github.com/yogesh-dhuri" target="_blank"><img src='./icons/github-badge.svg' alt='github-link'/></a> <a href="https://linkedin.com/in/dhuriyogesh0312" target="_blank"><img src="./icons/linkedIn-badge.svg" alt="linkedin-link" /></a> <a href="https://dhuriyogesh.vercel.app/" target="_blank"><img src="./icons/yogesh.dev-badge.svg" alt="personal-website-link"/></a>
